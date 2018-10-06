@@ -1,0 +1,22 @@
+{
+  "name": "matter-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffnazarian/matter-game.git"
+  },
+  "author": "Jeff Nazarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffnazarian/matter-game/issues"
+  },
+  "homepage": "https://github.com/jeffnazarian/matter-game#readme",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
